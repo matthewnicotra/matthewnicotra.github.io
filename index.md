@@ -10,4 +10,8 @@ layout: home
 
 Welcome to Hydractinia.org
 
-# stuff
+# H1
+## H2
+### H3
+
+# Recent Posts
