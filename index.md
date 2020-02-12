@@ -8,11 +8,8 @@
 layout: home
 ---
 
-### H3
-
-Some text
-
 ##### H5
 
 Welcome to Hydractinia.org
 
+Some more text.
