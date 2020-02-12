@@ -5,6 +5,12 @@ permalink: /about/
 published: true
 ---
 
-This website is currently under construction. It is the future home of the Hydractinia web directory, funded under an NSF-EDGE grant.
+# About the EDGE grant
 
-Woo-hoo!
+# Creators
+
+## Christine E. Schnitzler
+
+## Uri Frank
+
+## Matthew L. Nicotra
