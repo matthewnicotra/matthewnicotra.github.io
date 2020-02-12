@@ -5,9 +5,9 @@ permalink: /about/
 published: true
 ---
 
-# About the EDGE grant
+# About the EDGE grant  
 
-# Creators
+# Creators  
 
 ## Christine E. Schnitzler
 
