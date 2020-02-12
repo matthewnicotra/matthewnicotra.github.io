@@ -5,12 +5,12 @@ permalink: /about/
 published: true
 ---
 
-# About the EDGE grant  
+## About the EDGE grant  
 
-# Creators  
+## Creators  
 
-## Christine E. Schnitzler
+### Christine E. Schnitzler
 
-## Uri Frank
+### Uri Frank
 
-## Matthew L. Nicotra
+### Matthew L. Nicotra
