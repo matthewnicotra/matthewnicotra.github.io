@@ -6,7 +6,7 @@ published: true
 ---
 
 ## About the EDGE grant  
-
+&nbsp  
 ## Creators  
 
 ### Christine E. Schnitzler
