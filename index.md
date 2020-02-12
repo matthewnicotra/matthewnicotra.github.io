@@ -8,8 +8,6 @@
 layout: home
 ---
 
-# H1 after changing home layout
-
 Welcome to Hydractinia.org
 
-Some more text.
+# stuff
