@@ -8,6 +8,6 @@
 layout: home
 ---
 
-# Welcome to Hydractinia.org!
+## Welcome to Hydractinia.org!
 
-# is everything going to be duplicated?
+
