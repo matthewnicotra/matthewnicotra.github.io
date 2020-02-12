@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# H1
+## H2
 
 Welcome to Hydractinia.org
 
