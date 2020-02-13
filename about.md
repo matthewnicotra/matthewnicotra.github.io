@@ -7,10 +7,16 @@ published: true
 
 ## About the EDGE grant  
 &nbsp;  
-## Creators  
+## Principle Investigators
 
 ### Christine E. Schnitzler
+
+
 
 ### Uri Frank
 
 ### Matthew L. Nicotra
+
+![Matt Nicotra](/assets/img/mattnicotra.jpg)
+
+Matt and the rest of the [Nicotra Lab](http://www.nicotralab.org) study invertebrate allorecognition using *Hydractinia symbiolongicarpus* as a model system. The lab is also dedicated to helping new labs obtain and culture *Hydractinia*.
