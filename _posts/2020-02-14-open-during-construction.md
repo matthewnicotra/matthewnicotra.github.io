@@ -25,4 +25,4 @@ Think of this as your one-stop shop for all things *Hydractinia*. And it's open 
 
 [Schnitzler]: https://www.whitney.ufl.edu/people/current-research-faculty/christine-e-schnitzler-phd/
 [Frank]: https://urifranklab.org
-[Nicotra]: https://www.nicotralab.org
+[Nicotra]: http://www.nicotralab.org
