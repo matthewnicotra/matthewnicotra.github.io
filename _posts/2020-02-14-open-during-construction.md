@@ -21,7 +21,7 @@ Think of this as your one-stop shop for all things *Hydractinia*. And it's open 
 &nbsp;  
 &nbsp;  
 
-(image credit: https://www.ebay.com/usr/fastasticdeals?_trksid=p2047675.l2559)
+(image credit: [https://www.ebay.com/usr/fastasticdeals?_trksid=p2047675.l2559])
 
 [Schnitzler]: https://www.whitney.ufl.edu/people/current-research-faculty/christine-e-schnitzler-phd/
 [Frank]: https://urifranklab.org
