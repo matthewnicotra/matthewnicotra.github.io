@@ -5,6 +5,11 @@ permalink: /about/
 published: true
 ---
 
+- About Hydractinia
+  - The organism
+  - What it's good for (research areas)
+- About the EDGE grant
+
 ## About the EDGE grant  
 &nbsp;  
 ## Principle Investigators
