@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Find Resources
+title: Resources
 permalink: /findresources/
 published: true
 ---
