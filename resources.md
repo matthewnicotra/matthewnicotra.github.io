@@ -14,7 +14,6 @@ published: true
 - Reagents
   - Antibodies
   - Plasmids
-  - Guide RNAs for CRISPR
 - Protocols
   - Internal link to the "get started" page for anything having to do with culturing
   - link to Protocols.io
