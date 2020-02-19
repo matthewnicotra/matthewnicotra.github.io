@@ -65,6 +65,3 @@ title: Get Started
 1.	Plug in the powerheads and check to make sure they are actually running. Both powerheads should be completely submerged.
 
 1. Ensure the free end of the air hose on the 30 gallon powerhead is not submerged. If assembled properly, you should see many air bubbles coming out of the powerhead.
-
-
-[here it is](#tank)
