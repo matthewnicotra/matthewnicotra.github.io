@@ -15,6 +15,9 @@ published: true
 ## Principle Investigators
 
 ### Christine E. Schnitzler
+![Christy Schnitzler](/assets/img/christyschnitzler.png)
+
+Christy and members of the [Schnitzler Lab](https://www.whitney.ufl.edu/people/current-research-faculty/christine-e-schnitzler-phd/) study development, regeneration and stem cells using *Hydractinia symbiolongicarpus*.  The lab engages in collaborative research and is committed to providing resources to others to study *Hydractinia*.
 
 
 
