@@ -10,7 +10,7 @@ published: true
 ## Genomics resources
 
 #### _Hydractinia_ Genome Portal
-[![Genome Portal Home Page](/assets/img/genomePortal.png)](https://research.nhgri.nih.gov/hydractinia)  
+[![Genome Portal Home Page](/assets/img/genomePortal.PNG)](https://research.nhgri.nih.gov/hydractinia)  
 
 #### Transcriptome Datasets
 
