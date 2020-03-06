@@ -87,3 +87,53 @@ To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.
 1. Ensure the free end of the air hose on the 30 gallon powerhead is not submerged. If assembled properly, you should see many air bubbles coming out of the powerhead. (**need an image of this**)
 
 &nbsp;
+
+## How to make *Hydractinia* racks
+
+&nbsp;
+
+## How to feed *Hydractinia*
+
+1. Place the rack(s) of *Hydractinia* slides into bins filled with artificial sea seawater.
+
+1. Harvest 3-4 day old *Artemia* nauplii by filtering them out of their
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+## How to culture brine shrimp
+
+#### Overview
+
+*Hydractinia* can be fed 3-4 day old brine shrimp (*Artemia*) nauplii. They are hatched fresh in anticipation of each feeding. Therefore you need
+
+#### Materials
+
+- Brine shrimp eggs. We have good luck using [Grade A Brine Shrimp Eggs from Brine Shrimp Direct](https://www.brineshrimpdirect.com/brine-shrimp-eggs/grade-brine-shrimp-eggs/).  
+
+- Culture vessel. The size of this vessel will vary depending on your culture size. Many [options](https://www.brineshrimpdirect.com/equipment-supplies/hatching-equipment/) are available.  
+
+- [Brine shrimp net](https://www.brineshrimpdirect.com/brine-shrimp-net).  
+
+- Air pump
+
+
+&nbsp;
+
+
+
+
+
+
+
+
+
+## How to care for *Hydractinia*
