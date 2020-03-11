@@ -43,7 +43,6 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
 - Reagents -> Aidan
   - Antibodies
   - Plasmids
-  - Strains
 - Protocols
   - Internal link to the "get started" page for anything having to do with culturing ("The Zebrafish book")
   - link to Protocols.io
