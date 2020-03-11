@@ -1,0 +1,3 @@
+  - Strains database
+  - Plasmids database
+  - Antibodies database
