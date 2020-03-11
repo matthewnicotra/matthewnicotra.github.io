@@ -45,13 +45,12 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
     - Trying to integrate GoogleSheet
     - https://docs.google.com/spreadsheets/d/1zNQSZoA5NZaSl_kIzspRNOoN_-ol60VSfAn1MW5HAoc/edit#gid=1126879661
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4nzA2ajIZ4OJ_hkX0vR8t_I6RnSd06CHmRIglEuyB8QiACO11Ma6Ow3BgXggtBx6_uzlbojwGY0CJ/pubhtml?widget=true&amp;headers=false"></iframe>
+  - Plasmids
 {google_docs}<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4nzA2ajIZ4OJ_hkX0vR8t_I6RnSd06CHmRIglEuyB8QiACO11Ma6Ow3BgXggtBx6_uzlbojwGY0CJ/pubhtml?widget=true&amp;headers=false"></iframe>{/google_docs}
   - gdrive:
   - sheet: "Antibodies Database"
 {google_docs}https://docs.google.com/spreadsheets/d/e/2PACX-1vT4nzA2ajIZ4OJ_hkX0vR8t_I6RnSd06CHmRIglEuyB8QiACO11Ma6Ow3BgXggtBx6_uzlbojwGY0CJ/pubhtml{/google_docs}
 
-
-  - Plasmids
 - Protocols
   - Internal link to the "get started" page for anything having to do with culturing ("The Zebrafish book")
   - link to Protocols.io
