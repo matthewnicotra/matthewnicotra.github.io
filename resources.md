@@ -40,9 +40,10 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
 - Living resources
   - Non-transgenic Strains
   - Transgenic Strains
+- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFB3TR5oqQnGkyt14XRi9xKmLyIoBDA19CihCeHFbIzWMOBSFug8Xc4j_Ke9rwaoomtiLZu7e8wMzt/pubhtml?widget=true&amp;headers=false"></iframe>
 - Reagents -> Aidan
   - Antibodies
-    - https://docs.google.com/spreadsheets/d/1zNQSZoA5NZaSl_kIzspRNOoN_-ol60VSfAn1MW5HAoc/edit#gid=1126879661
+    - <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4nzA2ajIZ4OJ_hkX0vR8t_I6RnSd06CHmRIglEuyB8QiACO11Ma6Ow3BgXggtBx6_uzlbojwGY0CJ/pubhtml?widget=true&amp;headers=false"></iframe>
   - Plasmids
     - <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyoViDNkRWwu_tI_7yHp0d0NyPMqzFAcUiA4EI9dOvMCmYySeOmIAmvnkJX0ESn2ed0HlzeherErE0/pubhtml?widget=true&amp;headers=false"></iframe>
 - Protocols
