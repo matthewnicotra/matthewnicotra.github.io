@@ -43,7 +43,6 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
 - Reagents -> Aidan
   - Antibodies
     - Trying to integrate GoogleSheet
-    - d90c3190d95ed2e21f35729fcf6f6555f5775200
     - https://docs.google.com/spreadsheets/d/1zNQSZoA5NZaSl_kIzspRNOoN_-ol60VSfAn1MW5HAoc/edit#gid=1126879661
  gdrive:
   sheet: "Antibodies Database"
