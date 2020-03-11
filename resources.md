@@ -43,6 +43,8 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
 - Reagents -> Aidan
   - Antibodies
     - Trying to integrate GoogleSheet
+ gdrive:
+  sheet: "Antibodies Database"
   - Plasmids
 - Protocols
   - Internal link to the "get started" page for anything having to do with culturing ("The Zebrafish book")
