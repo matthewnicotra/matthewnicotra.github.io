@@ -40,8 +40,8 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
 - Living resources
   - Non-transgenic Strains
   - Transgenic Strains
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFB3TR5oqQnGkyt14XRi9xKmLyIoBDA19CihCeHFbIzWMOBSFug8Xc4j_Ke9rwaoomtiLZu7e8wMzt/pubhtml?widget=true&amp;headers=false;width=3000;"></iframe>
-  - 20:28 update
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFB3TR5oqQnGkyt14XRi9xKmLyIoBDA19CihCeHFbIzWMOBSFug8Xc4j_Ke9rwaoomtiLZu7e8wMzt/pubhtml?widget=true&amp;headers=false;"> | width="1800" </iframe>
+  - 20:32 update
 - Reagents -> Aidan
   - Antibodies
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4nzA2ajIZ4OJ_hkX0vR8t_I6RnSd06CHmRIglEuyB8QiACO11Ma6Ow3BgXggtBx6_uzlbojwGY0CJ/pubhtml?widget=true&amp;headers=false"></iframe>
