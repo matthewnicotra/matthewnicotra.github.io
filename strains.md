@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Strains
-permalink: /strains/
 published: true
 ---
 
