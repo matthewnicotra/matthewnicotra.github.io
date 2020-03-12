@@ -46,7 +46,7 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
   - Antibodies
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4nzA2ajIZ4OJ_hkX0vR8t_I6RnSd06CHmRIglEuyB8QiACO11Ma6Ow3BgXggtBx6_uzlbojwGY0CJ/pubhtml?widget=true&amp;headers=false"></iframe>
   - Plasmids
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyoViDNkRWwu_tI_7yHp0d0NyPMqzFAcUiA4EI9dOvMCmYySeOmIAmvnkJX0ESn2ed0HlzeherErE0/pubhtml?widget=true&amp;headers=false">|width:200|height:200|border:1|border_style:solid|border_color:#000000</iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyoViDNkRWwu_tI_7yHp0d0NyPMqzFAcUiA4EI9dOvMCmYySeOmIAmvnkJX0ESn2ed0HlzeherErE0/pubhtml?widget=true&amp;headers=false"></iframe>
 
 - Protocols
   - Internal link to the "get started" page for anything having to do with culturing ("The Zebrafish book")
