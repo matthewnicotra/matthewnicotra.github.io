@@ -5,12 +5,11 @@ permalink: /about/
 published: true
 ---
 
-- About Hydractinia
+## Hydractinia
   - The organism
   - What it's good for (research areas)
-- About the EDGE grant
 
-## About the EDGE grant  
+## The EDGE grant  
 &nbsp;  
 ## Principle Investigators
 
@@ -18,7 +17,6 @@ published: true
 ![Christy Schnitzler](/assets/img/christyschnitzler.png)
 
 Christy and members of the [Schnitzler Lab](https://www.whitney.ufl.edu/people/current-research-faculty/christine-e-schnitzler-phd/) study development, regeneration, and stem cells using *Hydractinia symbiolongicarpus*.  The lab engages in collaborative research and is committed to providing resources to others to study *Hydractinia*.
-
 
 
 ### Uri Frank
