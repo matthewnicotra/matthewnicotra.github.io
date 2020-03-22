@@ -26,3 +26,7 @@ Christy and members of the [Schnitzler Lab](https://www.whitney.ufl.edu/people/c
 ![Matt Nicotra](/assets/img/mattnicotra.jpg)
 
 Matt and the rest of the [Nicotra Lab](http://www.nicotralab.org) study invertebrate allorecognition using *Hydractinia symbiolongicarpus* as a model system. The lab is also dedicated to helping new labs obtain and culture *Hydractinia*.
+
+
+
+Matt edited this file on March 22 at 10:52 am
