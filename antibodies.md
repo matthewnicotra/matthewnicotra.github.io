@@ -11,4 +11,9 @@ published: true
 $('.myIframe').css('height', $(window).height()+'px');
 </script>
 
-- Database updated 2020-03-11
+FC = Flow Cytometry
+IF = Immunofluorescence
+IP = Immunoprecipitation
+WB = Western Blot
+
+- Database updated 2020-03-30
