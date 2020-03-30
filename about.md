@@ -20,7 +20,7 @@ Christy and members of the [Schnitzler Lab](https://www.whitney.ufl.edu/people/c
 
 ![Uri Frank](/assets/img/urifrank.jpg)
 
-Uri and members of the [Frank Lab](https://www.urifranklab.org/) use *Hydractinia* to study basic questions development, stem cells, and regeneration.
+Uri and members of the [Frank Lab](https://www.urifranklab.org/) use *Hydractinia* to study basic questions development, stem cells, and regeneration. The lab has a strong commitment to enabling researchers to use *Hydractinia* as a model system.
 
 ### Matthew L. Nicotra
 
