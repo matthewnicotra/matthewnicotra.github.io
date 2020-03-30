@@ -18,26 +18,22 @@ How to grow baby *Hydractinia*
 
 &nbsp;
 
-### Obtaining *Hydractinia*
+## **Obtaining *Hydractinia***
 
 We recommend researchers interested in studying *Hydractinia symbiolongicarpus* begin with these two strains:
 
-- **291-10** is a male *Hydractinia symbiolongicarpus* colony. It was bred in the [Nicotra lab](https://nicotralab.org) from parents collected at [Lighthouse Point, New Haven, CT](https://www.google.com/maps/place/41%C2%B014'54.1%22N+72%C2%B054'14.8%22W/@41.248362,-72.9046492,19z/data=!3m1!4b1!4m13!1m6!3m5!1s0x89e877f6386801eb:0x574e457ef42cdce2!2sLighthouse+Point+Park!8m2!3d41.2488564!4d-72.9035323!3m5!1s0x0:0x0!7e2!8m2!3d41.2483623!4d-72.9041023). It grows vigorously in the lab and, for this reason, is the animal that was sequenced for the [Hydractinia genome project](https://research.nhgri.nih.gov/hydractinia/).
+- **291-10** is a male *Hydractinia symbiolongicarpus* colony. It was bred in the [Nicotra lab](https://nicotralab.org) from parents collected at [Lighthouse Point, New Haven, CT](https://www.google.com/maps/place/41%C2%B014'54.1%22N+72%C2%B054'14.8%22W/@41.248362,-72.9046492,19z/data=!3m1!4b1!4m13!1m6!3m5!1s0x89e877f6386801eb:0x574e457ef42cdce2!2sLighthouse+Point+Park!8m2!3d41.2488564!4d-72.9035323!3m5!1s0x0:0x0!7e2!8m2!3d41.2483623!4d-72.9041023). It grows vigorously in the lab and, for this reason, is the animal that was sequenced for the [*Hydractinia* genome project](https://research.nhgri.nih.gov/hydractinia/).
 
-- **295-8** is a female *Hydractinia symbiolongicarpus* colony. It has the same mother as colony 291-10. It's father was an inbred colony obtained by the Nicotra lab from [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss). It grows well under laboratory conditions and reliably produces eggs.
+- **295-8** is a female *Hydractinia symbiolongicarpus* colony. It has the same mother as colony 291-10. Its father was an inbred colony obtained from [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) by the Nicotra lab. It grows well under laboratory conditions and reliably produces eggs.
 
 To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.edu/people/current-research-faculty/christine-e-schnitzler-phd/), [Matthew Nicotra](http://www.nicotralab.org/people.html), or [Uri Frank](https://www.urifranklab.org/contact/).
 
 
 &nbsp;
 
-### Setting up a tank
+## **Setting up a tank**
 
-#### Overview
-
-
-
-#### Materials
+### Materials
 - One [standard 39 liter (10 gallon) glass aquarium tank](https://www.aqueon.com/products/aquariums/standard-glass-rectangle-aquariums)
 - Artificial seawater at 29 parts per thousand. We recommend [Reef Crystals](http://www.instantocean.com/Products/Sea-Salt-Mixes/reef-crystals-sea-salt.aspx) or [Coral Pro](https://www.redseafish.com/red-sea-salts/coral-pro-salt/).
 -	[Phos-Zorb Powder](https://www.apifishcare.com/product.php?p=details&id=548#.Xk1xIGhKhjE)
@@ -59,7 +55,7 @@ To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.
      ![Sponge Filter](/assets/img/hydrosponge.jpg)
 
 
-#### Methods
+### Methods
 1.	Rinse the aquarium with hot water. Then rinse with cold water and finally deionized-water (if available). Note: if you cannot rinse the tank with deionized water, then do your best to dry it out with paper towels to avoid leaving any tap water in it.
 
 1.	Assemble the sponge filter and both powerheads.
@@ -88,34 +84,21 @@ To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.
 
 &nbsp;
 
-## How to make *Hydractinia* racks
+## **How to make *Hydractinia* racks**
+
+Coming soon.
 
 &nbsp;
 
-## How to feed *Hydractinia*
+## **How to feed *Hydractinia***
 
-1. Place the rack(s) of *Hydractinia* slides into bins filled with artificial sea seawater.
-
-1. Harvest 3-4 day old *Artemia* nauplii by filtering them out of their
-
+Coming soon.
 
 &nbsp;
 
+## **How to culture brine shrimp**
 
-
-
-
-
-
-
-
-## How to culture brine shrimp
-
-#### Overview
-
-*Hydractinia* can be fed 3-4 day old brine shrimp (*Artemia*) nauplii. They are hatched fresh in anticipation of each feeding. Therefore you need
-
-#### Materials
+### Materials
 
 - Brine shrimp eggs. We have good luck using [Grade A Brine Shrimp Eggs from Brine Shrimp Direct](https://www.brineshrimpdirect.com/brine-shrimp-eggs/grade-brine-shrimp-eggs/).  
 
@@ -123,17 +106,12 @@ To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.
 
 - [Brine shrimp net](https://www.brineshrimpdirect.com/brine-shrimp-net).  
 
-- Air pump
+### Methods
 
+Coming soon.
 
 &nbsp;
 
+## **How to care for *Hydractinia***
 
-
-
-
-
-
-
-
-## How to care for *Hydractinia*
+Coming soon.
