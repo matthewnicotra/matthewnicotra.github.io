@@ -3,6 +3,8 @@ layout: page
 title: Connect
 ---
 
+![Connect](/assets/img/Connect.png){: height="20%" width="20%"}
+
 This page will host things like
 
 - Explanation of social media accounts affiliated with this site

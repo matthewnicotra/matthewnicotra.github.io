@@ -5,7 +5,30 @@ permalink: /resources/
 published: true
 ---
 
-[Genomics resources](#genomics-resources)
+[Genomics resources](#genomics-resources)  
+[Strains](#strains)  
+[Antibodies](#antibodies)  
+[Plasmids](#plasmids)  
+[Protocols](#protocols)  
+  
+[![Hydractinia picture](http://www.nicotralab.org/uploads/4/4/4/2/44429915/1422039194.png "Hydractinia strains"){:<!-- style="float:right"--> height="30%" width="30%"}](#strains)
+[![Antibody icon](/assets/img/Antibody1.png "Antibody Diagram"){:<!-- style="float:right"--> height="30%" width="30%"}](#antibodies)  
+[![Plasmid icon](/assets/img/Plasmid3.png "Plasmid icon"){:<!-- style="float:right"--> height="30%" width="30%"}](#plasmids)
+[![Protocols icon](/assets/img/Methodsprotocols3.png "Protocols icon"){:<!-- style="float:right"--> height="30%" width="30%"}](#protocols)
+<br>
+<br>
+<br>
+
+<!-- [Strains](#strains)  -->
+<!-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
+<!-- https://github.com/hakimel/reveal.js/issues/1349 -->
+<!-- [![Strains](http://www.nicotralab.org/uploads/4/4/4/2/44429915/1422039194.png "Hydractinia"){:height="30%" width="30%"}](#strains)  -->
+<!-- [Antibodies](#antibodies)  -->
+<!-- [![Antibody icon](/assets/img/Antibody1.png "Antibody Diagram"){:height="30%" width="30%"}](#antibodies)  -->
+<!-- [Plasmids](#plasmids)  -->
+<!-- [![Plasmid icon](/assets/img/Plasmid3.png "Plasmid icon"){:height="30%" width="30%"}](#plasmids)  -->
+<!-- [Protocols](#protocols)  -->
+<!-- [![Protocols icon](/assets/img/Methodsprotocols3.png "Protocols icon"){:height="30%" width="30%"}](#protocols)-->
 
 ## Genomics resources
 
@@ -40,19 +63,34 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
 - Living resources
   - Non-transgenic Strains
   - Transgenic Strains
-  - strains.md
-  - [Strains](https://hydractinia.org/strains/)<br>
-[![Strains](http://www.nicotralab.org/uploads/4/4/4/2/44429915/1422039194.png "Poached from Nicotra Lab website :)"){:height="20%" width="20%"}](https://hydractinia.org/strains/)
-<!-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet -->
-    - 
-- Reagents -> Aidan
-  - [Antibodies](https://hydractinia.org/antibodies/)<br>
-<!-- [![Antibody pic](http://openhydra.org/wp-content/uploads/2019/09/Circle-6.png "Poached Image from Hydra Antibodies :)")](https://hydractinia.org/antibodies/)<br> -->
-[![Antibody pic 2](http://openhydra.org/wp-content/uploads/2019/09/Circle-6.png "Poached Image from Hydra Antibodies :)"){:height="20%" width="20%"}](https://hydractinia.org/antibodies/) <!-- https://github.com/hakimel/reveal.js/issues/1349 -->
-  - [Plasmids](https://hydractinia.org/plasmids/)<br>
-[![Plasmid pic](http://openhydra.org/wp-content/uploads/2019/09/Circle-7.png "Poached Image from Hydra Plasmids :)"){:height="20%" width="20%"}](https://hydractinia.org/plasmids/)
-- Protocols<br>
-[![Methods pic](http://openhydra.org/wp-content/uploads/2019/09/Circle-1.png "Poached from Hydra Methods :)"){:height="20%" width="20%"}](https://hydractinia.org/getstarted/)
+  
+  
+  
+## Strains  
+[//]: # https://github.com/petkivim/embed-google-docs
+<!-- https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be -->
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFB3TR5oqQnGkyt14XRi9xKmLyIoBDA19CihCeHFbIzWMOBSFug8Xc4j_Ke9rwaoomtiLZu7e8wMzt/pubhtml?widget=true&amp;headers=false" frameborder="0" scrolling="no" width="800" height="200"></iframe>
+<br>
+<br>
+
+## Antibodies  
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT4nzA2ajIZ4OJ_hkX0vR8t_I6RnSd06CHmRIglEuyB8QiACO11Ma6Ow3BgXggtBx6_uzlbojwGY0CJ/pubhtml?widget=true&amp;headers=false" frameborder="0" scrolling="no" width="800" height="450"></iframe>
+
+E = Elisa  
+FC = Flow Cytometry  
+IF = Immunofluorescence  
+IP = Immunoprecipitation  
+WB = Western Blot  
+<br>
+<br>
+
+## Plasmids  
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyoViDNkRWwu_tI_7yHp0d0NyPMqzFAcUiA4EI9dOvMCmYySeOmIAmvnkJX0ESn2ed0HlzeherErE0/pubhtml?widget=true&amp;headers=false" frameborder="0" scrolling="no" width="800" height="200"></iframe>   
+<br>
+<br>
+
+## Protocols  
   - Internal link to the "get started" page for anything having to do with culturing ("The Zebrafish book")
   - link to Protocols.io
   - Link to types of animal specific stuff here (like printing the racks)
