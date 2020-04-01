@@ -1,0 +1,20 @@
+This page will host things like
+
+- Explanation of social media accounts affiliated with this site
+  - A Twitter account associated with this page. (Can't be @hydractinia)
+    - @hydractiniaresearch
+    - @hydractinia_org
+    - @_hydractinia
+    - @snailfur (sadly taken)
+  - An email account associated with this page (?)
+- Information about joining slack
+- Hydractinia Forum
+  - Maybe rely on Researchgate
+  - probably for later down the road.
+- Meetings That might be of interest
+  - Cnidofest
+  - Tutzing
+  - Others? Euro and PanAm EvoDevo meetings
+- Directory/Listing of labs and people currently working with Hydractinia and links to their labs
+  - Includes information on how to get yourself on this list
+- Do we need a FAQ page?

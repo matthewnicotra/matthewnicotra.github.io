@@ -5,23 +5,28 @@ title: Connect
 
 ![Connect](/assets/img/Connect.png){: height="20%" width="20%"}
 
-This page will host things like
+### Table of Contents  
+[Social](#social)  
+[Slack](#slack)  
+[Meetings and Conferences](#meetings-and-conferences)  
+[Active Labs](#other-labs)  
 
-- Explanation of social media accounts affiliated with this site
-  - A Twitter account associated with this page. (Can't be @hydractinia)
-    - @hydractiniaresearch
-    - @hydractinia_org
-    - @_hydractinia
-    - @snailfur (sadly taken)     
-  - An email account associated with this page (?)
-- Information about joining slack
-- Hydractinia Forum
-  - Maybe rely on Researchgate
-  - probably for later down the road.
-- Meetings That might be of interest
-  - Cnidofest
-  - Tutzing
-  - Others? Euro and PanAm EvoDevo meetings
-- Directory/Listing of labs and people currently working with Hydractinia and links to their labs
-  - Includes information on how to get yourself on this list
-- Do we need a FAQ page?
+## **Social**
+
+Coming soon.  
+&nbsp;
+
+## **Slack**
+
+Coming soon.  
+&nbsp;
+
+## **Meetings and Conferences**
+
+Coming soon.  
+&nbsp;
+
+## **Active Labs**
+
+Coming soon.  
+&nbsp;
