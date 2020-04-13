@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Connect
+permalink: /connect/
 ---
 
 ![Connect](/assets/img/Connect.png){: height="20%" width="20%"}
@@ -9,7 +10,7 @@ title: Connect
 [Social](#social)  
 [Slack](#slack)  
 [Meetings and Conferences](#meetings-and-conferences)  
-[Active Labs](#other-labs)  
+[Active Labs](#active-labs)  
 
 ## **Social**
 
@@ -28,5 +29,8 @@ Coming soon.
 
 ## **Active Labs**
 
-Coming soon.  
+Coming soon.
+
 &nbsp;
+
+[Back to top](/connect)

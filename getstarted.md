@@ -114,4 +114,8 @@ Coming soon.
 
 ## **How to care for *Hydractinia***
 
-Coming soon.
+Coming soon.  
+
+&nbsp;
+
+[Back to top](/getstarted)
