@@ -13,10 +13,18 @@ published: true
 [Protocols](#protocols)  
 [Future Resources](#future-resources)  
   
-[![Hydractinia strains](/assets/img/hydractiniastrainslogo.png "Hydractinia strains"){:<!-- style="float:right"--> height="20%" width="20%"}](#strains)
-[![Antibody icon](/assets/img/Antibody1.png "Antibody Diagram"){:<!-- style="float:right"--> height="20%" width="20%"}](#antibodies)
-[![Plasmid icon](/assets/img/Plasmid3.png "Plasmid icon"){:<!-- style="float:right"--> height="20%" width="20%"}](#plasmids)
-[![Protocols icon](/assets/img/Methodsprotocols3.png "Protocols icon"){:<!-- style="float:right"--> height="20%" width="20%"}](#protocols)
+<!-- 
+<img align="left" width="30%" height="30%" src="/assets/img/Genomics.png">
+<img align="center" width="30%" height="30%" src="/assets/img/hydractiniastrainslogo.png">
+<img align="right" width="30%" height="30%" src="/assets/img/Antibody1.png">  
+-->
+
+[![Genomics resources](/assets/img/Genomics.png "Genomic resources"){: height="30%" width="30%"}](#genomics-resources)
+[![Hydractinia strains](/assets/img/hydractiniastrainslogo.png "Hydractinia strains"){:<!-- style="float:right"--> height="30%" width="30%"}](#strains)
+[![Antibody icon](/assets/img/Antibody1.png "Antibody Diagram"){:<!-- style="float:right"--> height="30%" width="30%"}](#antibodies)  
+[![Plasmid icon](/assets/img/Plasmid3.png "Plasmid icon"){:<!-- style="float:right"--> height="30%" width="30%"}](#plasmids)
+[![Protocols icon](/assets/img/Methodsprotocols3.png "Protocols icon"){:<!-- style="float:right"--> height="30%" width="30%"}](#protocols)
+[![Future Resources](/assets/img/futureresources.png "Future resources"){: height="30%" width="30%"}](#future-resources)
 <br>
 <br>
 <br>
