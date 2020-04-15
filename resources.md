@@ -12,6 +12,7 @@ published: true
 <!-- [Cryopreserved samples](#cryopreserved-samples)  -->
 [Protocols](#protocols)  
 [Future Resources](#future-resources)  
+[FAQs](#frequently-asked-questions)  
   
 <!-- 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
@@ -97,10 +98,17 @@ Please visit the [Get Started](/getstarted) page to view the protocols regarding
   - DNA/RNA extraction
  
 #### 3D Printing
-As 3D printing has become more affordable, it has proven useful for customizing tools. We have included links to commonly printed objects in *Hydractinia* labs. If you have any objects to add to the tools, please contact [Matt](mln29@pitt.edu) to make your object available for others in the community to use! In addition, you can upload your object on Thingiverse and share it to the group for *Hydractinia* users.  
+
+As 3D printing has become more affordable, it has proven useful for customizing tools. We have included links to commonly printed objects in *Hydractinia* labs.
   - [*Hydractinia* breeder box](https://www.thingiverse.com/thing:3661286)  
   - *Hydractinia* rack  
   - Dissection scope phone mount
+  
+To design tools, there are many resources available. For beginners, one free tool for designing is [Tinkercad](https://www.tinkercad.com/) by Autodesk. Sign up for an account and complete the relevant lessons for using Tinkercad, then start desinging your own objects to fit your project.
+
+For 3D printers, there are many options. For beginners, an affordable model that the Nicotra Lab has used to successfully print objects is the [Creatlity Ender3](https://www.creality3d.shop/collections/3d-printer/products/creality-ender-3-3d-printer-economic-ender-diy-kits-with-resume-printing-function-v-slot-prusa-i3-220x220x250mm?gclid=Cj0KCQjw4dr0BRCxARIsAKUNjWQ0hkiY-iGsoG4UxhpPWiott2_UxzMN9TeDajRMs-Z9GxoJYvMpfFIaAl79EALw_wcB). A second and more expensive model that has been used to successfully print objects is the [Prusa i3 MK3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html). Filament can be purchased from various vendors. The Nicotra Lab has purchased filament from MakerBot.  
+
+To make your files available to the *Hydractinia* community, there is a group on [Thingiverse](https://thingiverse.com) called *Hydractinia*. If you have any objects that you think should be added to the quick links above, please contact [Matt](mln29@pitt.edu).  
 
   
 #### Other Protocols
@@ -111,5 +119,10 @@ As 3D printing has become more affordable, it has proven useful for customizing 
 
 ## Future Resources
 Stay tuned for future resources such as cryopreserved samples, newletters, job postings, forums, and more! Let us know if you have suggestions.
+
+[Back to top](/resources)  
+
+## Frequently Asked Questions
+Coming soon, frequently asked questions.
 
 [Back to top](/resources)  
