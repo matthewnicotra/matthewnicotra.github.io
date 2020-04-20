@@ -4,6 +4,10 @@ permalink: /getstarted/
 title: Get Started
 ---
 
+<!-- The below code provides a "back to top" button on the page-->
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop()</script>
+
 ### Table of Contents
 [Obtaining *Hydractinia*](#obtaining-hydractinia)  
 [Setting up a tank](#setting-up-a-tank)  
@@ -118,4 +122,4 @@ Coming soon.
 
 &nbsp;
 
-[Back to top](/getstarted)
+<a href="#top">Back to top</a>  

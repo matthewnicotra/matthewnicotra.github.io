@@ -33,4 +33,4 @@ Coming soon.
 
 &nbsp;
 
-[Back to top](/connect)
+<a href="#top">Back to top</a>  
