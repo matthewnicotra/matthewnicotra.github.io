@@ -24,13 +24,13 @@ How to grow baby *Hydractinia*
 
 ## **Obtaining *Hydractinia***
 
-We recommend researchers interested in studying *Hydractinia symbiolongicarpus* begin with these two strains:
+We recommend researchers start with these two strains:
 
 - **291-10** is a male *Hydractinia symbiolongicarpus* colony. It was bred in the [Nicotra lab](https://nicotralab.org) from parents collected at [Lighthouse Point, New Haven, CT](https://www.google.com/maps/place/41%C2%B014'54.1%22N+72%C2%B054'14.8%22W/@41.248362,-72.9046492,19z/data=!3m1!4b1!4m13!1m6!3m5!1s0x89e877f6386801eb:0x574e457ef42cdce2!2sLighthouse+Point+Park!8m2!3d41.2488564!4d-72.9035323!3m5!1s0x0:0x0!7e2!8m2!3d41.2483623!4d-72.9041023). It grows vigorously in the lab and, for this reason, is the animal that was sequenced for the [*Hydractinia* genome project](https://research.nhgri.nih.gov/hydractinia/).
 
 - **295-8** is a female *Hydractinia symbiolongicarpus* colony. It has the same mother as colony 291-10. Its father was an inbred colony obtained from [Leo Buss](https://eeb.yale.edu/people/faculty-affiliated/leo-buss) by the Nicotra lab. It grows well under laboratory conditions and reliably produces eggs.
 
-To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.edu/people/current-research-faculty/christine-e-schnitzler-phd/), [Matthew Nicotra](http://www.nicotralab.org/people.html), or [Uri Frank](https://www.urifranklab.org/contact/).
+To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.edu/people/current-research-faculty/christine-e-schnitzler-phd/), [Matthew Nicotra](http://www.nicotralab.org/people.html), or [Uri Frank](https://www.urifranklab.org/contact/) and we will be happy to ship some to you. 
 
 
 &nbsp;
@@ -64,7 +64,7 @@ To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.
 
 1.	Assemble the sponge filter and both powerheads.
 
-1.	Place the filters and powerheads in a small bin filled with 29 ppt sea water to "get them going” and rinse the internal parts of the powerheads and filters.
+1.	Place the filters and powerheads in a small bin filled with 29 ppt sea water and rinse the internal parts of the powerheads and filters.
 
 1.	Place 50 ml Phos-Zorb powder into the media bag, then tie it closed.
 

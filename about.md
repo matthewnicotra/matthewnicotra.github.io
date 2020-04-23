@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-This website is supported by an [EDGE grant](https://nsfgov.home.blog/2019/09/17/the-cutting-edge-of-genomics/) from the [US National Science Foundation](https://www.nsf.gov/). The scientific goals of the [project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923259&HistoricalAwards=false) are to develop methods for conditional transgenics and markers for each *Hydractinia* cell type, enabling researchers to manipulate gene expression with greater precision in this model.
+This website is supported by an [EDGE grant](https://nsfgov.home.blog/2019/09/17/the-cutting-edge-of-genomics/) from the [US National Science Foundation](https://www.nsf.gov/) to develop methods for [conditional transgenics and markers for each *Hydractinia* cell type](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1923259&HistoricalAwards=false). The purpose of this website is to disseminate the results of this project and, at the same time, to serve as an online directory for *Hydractinia* related resources.
 
 
 ## Principle Investigators
