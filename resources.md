@@ -143,3 +143,21 @@ Coming soon, frequently asked questions.
 <div align="right">
     <a href="#top">Back to top</a>
 </div>
+
+<!--<html>
+  <head>
+    <title>Embedded JBrowse</title>
+  </head>
+  <body>
+    <h1>Volvox JBrowse Embedded in an <code>iframe</code></h1>
+    <div style="width: 600px; margin: 0 auto;">
+      <iframe
+        src="index.html?data=sample_data/json/volvox&tracklist=0&nav=0&overview=0&tracks=DNA%2CExampleFeatures%2CNameTest%2CMotifs%2CAlignments%2CGenes%2CReadingFrame%2CCDS%2CTranscript%2CClones%2CEST"
+        style="border: 1px solid black"
+        width="100%"
+        height="800px"
+        >
+      </iframe>
+    </div>
+  </body>
+</html>-->
