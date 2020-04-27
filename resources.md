@@ -76,9 +76,7 @@ WB = Western Blot
 O = Other  
 
 <a href="#top">Back to top</a>  
-
 <br>
-
 
 ## Plasmids  
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyoViDNkRWwu_tI_7yHp0d0NyPMqzFAcUiA4EI9dOvMCmYySeOmIAmvnkJX0ESn2ed0HlzeherErE0/pubhtml?widget=true&amp;headers=false" frameborder="0" scrolling="no" width="100%" height="400"></iframe>   
@@ -109,23 +107,23 @@ Please visit the [Get Started](/getstarted) page to view the protocols regarding
 
 #### 3D Printing
 
-As 3D printing has become more affordable, it has proven useful for customizing tools. We have included links to some of the commonly printed objects for *Hydractinia* labs.
+As 3D printing has become more affordable, it has proven useful for customizing tools. We have included links to some commonly printed objects used in *Hydractinia* labs.
   - [*Hydractinia* breeder box](https://www.thingiverse.com/thing:3661286)  
   - *Hydractinia* rack  
   - Dissection scope phone mount
 
-<!--3D printing quick start guide-->
+<!--[3D printing quick start guide]()-->
 
 To design tools, there are many resources available. For beginners, one free tool for designing is [Tinkercad](https://www.tinkercad.com/) by Autodesk. Sign up for an account and complete the relevant lessons for using Tinkercad, then start desinging your own objects to fit your project. Files can be downloaded in various formats, though most commonly .stl or .obj files are used.  
 
-To prepare objects for printing, the object must be separated or "sliced" into the layers that the printer will use to print the object. One free software that can be utilized is [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura). This will produce a .gcode file that 3D printers use to print the object.
+To prepare objects for printing, the object (.stl or .obj) must be separated or "sliced" into the layers that the printer will use to print the object. One free software that can be utilized is [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura). This will produce a .gcode file that 3D printers use to print the object.
 
-For 3D printers, there are many options. For beginners, an affordable model that the Nicotra Lab has used to successfully print objects is the [Creatlity Ender3](https://www.creality3d.shop/collections/3d-printer/products/creality-ender-3-3d-printer-economic-ender-diy-kits-with-resume-printing-function-v-slot-prusa-i3-220x220x250mm?gclid=Cj0KCQjw4dr0BRCxARIsAKUNjWQ0hkiY-iGsoG4UxhpPWiott2_UxzMN9TeDajRMs-Z9GxoJYvMpfFIaAl79EALw_wcB). A second and more expensive model that has been used to successfully print objects is the [Prusa i3 MK3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html). Filament can be purchased from various vendors. The Nicotra Lab has purchased filament from HatchBox.  
+For 3D printers, there are many options. For beginners, an affordable model that the Nicotra Lab has used to successfully print objects is the [Creatlity Ender3](https://www.creality3d.shop/collections/3d-printer/products/creality-ender-3-3d-printer-economic-ender-diy-kits-with-resume-printing-function-v-slot-prusa-i3-220x220x250mm?gclid=Cj0KCQjw4dr0BRCxARIsAKUNjWQ0hkiY-iGsoG4UxhpPWiott2_UxzMN9TeDajRMs-Z9GxoJYvMpfFIaAl79EALw_wcB). A second and more expensive model that has been used to successfully print objects is the [Prusa i3 MK3](https://shop.prusa3d.com/en/3d-printers/180-original-prusa-i3-mk3-kit.html). Filament can be purchased from various vendors. The Nicotra Lab has purchased filament from [HatchBox](https://www.hatchbox3d.com/).  
 
-To make your files available to the *Hydractinia* community, there is a group on [Thingiverse](https://thingiverse.com) called *Hydractinia*. If you have any objects that you think should be added to the quick links above, please contact [Matt](mln29@pitt.edu).  
+To find additional reserach-related objects or to share your objects with the *Hydractinia* community, there is a group on [Thingiverse](https://thingiverse.com) called [*Hydractinia*](https://www.thingiverse.com/groups/hydractinia). If you have any objects that you think should be added to the quick links above, contact [Matt](mln29@pitt.edu).  
 
 
-#### Other Protocols
+#### Other Protocols and Resources
   - Coming soon, some protocols will be hosted on Protocols.io.
   - About *Hydractinia* (anatomy atlas, development timetable, life cycle)
 
@@ -139,7 +137,6 @@ Stay tuned for future resources such as cryopreserved samples, newletters, job p
 ## Frequently Asked Questions
 Coming soon, frequently asked questions.
 
-<a href="#top">Back to top</a>
 <div align="right">
     <a href="#top">Back to top</a>
 </div>
