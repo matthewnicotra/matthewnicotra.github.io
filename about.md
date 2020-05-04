@@ -29,9 +29,6 @@ Uri and members of the [Frank Lab](https://www.urifranklab.org/) use *Hydractini
 Matt and the rest of the [Nicotra Lab](http://www.nicotralab.org) study invertebrate allorecognition using *Hydractinia symbiolongicarpus* as a model system. The lab is also dedicated to helping new labs obtain and culture *Hydractinia*.
 
 
-Srija edited this file on May 4 at 5:31 PM
-
-
 <br>
 Matt edited this file on March 30 at 10:52 am  
 <a href="#top">Back to top</a>
