@@ -121,19 +121,21 @@ Coming soon.
 
 1. Transfer the brine shrimp culture from the buckets to the carboys and set them on the counter next to the sink for the shrimp to settle to the bottom of the carboys. This could be done while performing other tasks. Should wait until most of the shrimp settle to the bottom of the carboy, with a concentrated orange color at the bottom. *Don't leave shrimp in cardboys for extended periods of time as the lack of bubblers will cause them to die. 
 
+
 **Pre-Feeding:**
 1. Remove all plastic containers (tubs) from the drying rack and place them on two different counters to separate males from females. 
-   1. Calculate how many tubs are needed for each side by calculating how many microscope slide racks of animals there are for each gender. (Our large tub can hold up to 3 large racks or 2 large racks + 3 small racks.)
+   * Calculate how many tubs are needed for each side by calculating how many microscope slide racks of animals there are for each gender. (Our large tub can hold up to 3 large racks or 2 large racks + 3 small racks.)
 
 1. Fill each tub with water from certain tanks based on what day the water change is. 
-   1. For example, if the feeding is happening on Monday, only use the water from tanks that need water changed on Mondays 
-   1. Don’t forget to fill the tub with the tubes and the tub for rinsing. 
+   * For example, if the feeding is happening on Monday, only use the water from tanks that need water changed on Mondays 
+   * Don’t forget to fill the tub with the tubes and the tub for rinsing. 
 
 1. Submerge female and male animal racks separately in the tubs filled with water. 
-   1. For animal slides in tubes (we use 10mL centrifuge tubes with a hole cut out of the bottom for water movement), Put them in tubs that are filled with the addition of a tube rack to hold tubes in place.
-   1. Prepare two extra rinse tubs for the male and female sides to rinse off the brine shrimp after feeding. 
+   * For animal slides in tubes (we use 10mL centrifuge tubes with a hole cut out of the bottom for water movement), Put them in tubs that are filled with the addition of a tube rack to hold tubes in place.
+   * Prepare two extra rinse tubs for the male and female sides to rinse off the brine shrimp after feeding. 
 
 1. If running out tub space, you can consolidate Podocoryne or non-sexually matured animals into one rack. 
+
 
 **Feeding:**
 1. Rinse the air-dried filtering net with hot water then again with cold water.
@@ -141,7 +143,7 @@ Coming soon.
 1. Catch shrimp with the net (place the net directly under the carboy spigots to filter out the shrimp). 
 
 1. Dab the net with shrimp inside out into each bin and disperse the shrimp by picking up the racks and moving them back and forth in tub.
-   1. For the tubed animals, you can dab the shrimp in the water next to the tube rack, and then just move the rack. The water will bring shrimps automatically into tubes through their bottom openings.
+   * For the tubed animals, you can dab the shrimp in the water next to the tube rack, and then just move the rack. The water will bring shrimps automatically into tubes through their bottom openings.
 
 1. When shifting between feeding male and female racks, rinse the shrimp net with hot water then again with cold water.
 
@@ -149,17 +151,19 @@ Coming soon.
 
 1. Record the time the feeding started. They usually need one hour to eat. 
 
+
 **Water Changing:** *(can be done while the animals are feeding)*
 1. Remove any excess water to make sure all the tanks that needed to be changed only have about 75% of water left. 
 
 1. Fill the specific “water-change only” carboy with reservoir water and add to the tanks until they are filled 100% (not all the way to the top that it will overflow). 
 
 1. Check salinity, ideally 29 ppt, if the salinity is higher, add Deionized (DI) -water. For our tanks, 500mL of DI water will result in lower the salinity by 1ppt.
-   1. For example, if it the salinity reads 31ppt, add 1000mL of DI water to reach 29ppt.
+   * For example, if it the salinity reads 31ppt, add 1000mL of DI water to reach 29ppt.
 
 1. This is also a good time to check if there’s any excess food waste in the bottom of the tanks. If yes, you can remove them using a transfer pipette. 
 
-**__Post-Feeding:__**
+
+**Post-Feeding:**
 1. Put racks back after 1 hr of eating. Rinse each rack in the extra tub to remove unconsumed shrimps before placing back in their tanks. 
 
 1. Put the lids back to the tanks. For our tanks make sure that the lids are convex when put on so the curve can be counter corrected. 
