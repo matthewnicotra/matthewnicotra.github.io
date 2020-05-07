@@ -22,7 +22,7 @@ How to grow baby *Hydractinia*
 
 &nbsp;
 
-## **Obtaining *Hydractinia***  {style=text-align:center}
+## **Obtaining *Hydractinia***
 
 We recommend researchers start with these two strains:
 
@@ -35,7 +35,7 @@ To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.
 
 &nbsp;
 
-## **Setting up a tank**  {style=text-align:center}
+## **Setting up a tank**
 
 ### Materials
 - One [standard 39 liter (10 gallon) glass aquarium tank](https://www.aqueon.com/products/aquariums/standard-glass-rectangle-aquariums)
@@ -88,13 +88,13 @@ To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.
 
 &nbsp;
 
-## **How to make *Hydractinia* racks**  {style=text-align:center}
+## **How to make *Hydractinia* racks**
 
 Coming soon.
 
 &nbsp;
 
-## **How to feed *Hydractinia***  {style=text-align:center}
+## **How to feed *Hydractinia***
 
 ### Materials
 - Cultured Brine Shrimp
@@ -172,7 +172,7 @@ Coming soon.
 
 &nbsp;
 
-## **How to culture brine shrimp**  {style=text-align:center}
+## **How to culture brine shrimp**
 
 ### Materials
 - Brine shrimp eggs. We have good luck using [Grade A Brine Shrimp Eggs from Brine Shrimp Direct](https://www.brineshrimpdirect.com/brine-shrimp-eggs/grade-brine-shrimp-eggs/).  
@@ -203,7 +203,7 @@ Coming soon.
 
 &nbsp;
 
-## **How to care for *Hydractinia***  {style=text-align:center}
+## **How to care for *Hydractinia*** 
 
 Coming soon.  
 
