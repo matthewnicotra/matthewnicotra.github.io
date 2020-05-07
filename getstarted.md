@@ -22,7 +22,7 @@ How to grow baby *Hydractinia*
 
 &nbsp;
 
-## **Obtaining *Hydractinia***
+<div align="center">## **Obtaining *Hydractinia***</div>
 
 We recommend researchers start with these two strains:
 
