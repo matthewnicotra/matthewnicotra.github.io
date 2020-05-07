@@ -106,7 +106,7 @@ Coming soon.
 
 
 ### Methods
-**__Preparing to feed:__**
+**Preparing to feed:**
 1.    Take out the black UV lights from the brine shrimp culture buckets, rinse them with hot water to remove debris and unwanted material. 
 
 1. Disconnect the long (5mL) serological pipettes (bubblers) from the air pump tubing and place them in the sink. 
@@ -121,7 +121,7 @@ Coming soon.
 
 1. Transfer the brine shrimp culture from the buckets to the carboys and set them on the counter next to the sink for the shrimp to settle to the bottom of the carboys. This could be done while performing other tasks. Should wait until most of the shrimp settle to the bottom of the carboy, with a concentrated orange color at the bottom. *Don't leave shrimp in cardboys for extended periods of time as the lack of bubblers will cause them to die. 
 
-**__Pre-Feeding:__**
+**Pre-Feeding:**
 1. Remove all plastic containers (tubs) from the drying rack and place them on two different counters to separate males from females. 
    1. Calculate how many tubs are needed for each side by calculating how many microscope slide racks of animals there are for each gender. (Our large tub can hold up to 3 large racks or 2 large racks + 3 small racks.)
 
@@ -135,7 +135,7 @@ Coming soon.
 
 1. If running out tub space, you can consolidate Podocoryne or non-sexually matured animals into one rack. 
 
-**__Feeding:__**
+**Feeding:**
 1. Rinse the air-dried filtering net with hot water then again with cold water.
 
 1. Catch shrimp with the net (place the net directly under the carboy spigots to filter out the shrimp). 
@@ -149,7 +149,7 @@ Coming soon.
 
 1. Record the time the feeding started. They usually need one hour to eat. 
 
-**__Water Changing:__** *(can be done while the animals are feeding)*
+**Water Changing:** *(can be done while the animals are feeding)*
 1. Remove any excess water to make sure all the tanks that needed to be changed only have about 75% of water left. 
 
 1. Fill the specific “water-change only” carboy with reservoir water and add to the tanks until they are filled 100% (not all the way to the top that it will overflow). 
@@ -166,22 +166,36 @@ Coming soon.
 
 1. Culture a new set of brine shrimp for the next feeding. 
 
-
 &nbsp;
 
 ## **How to culture brine shrimp**
 
 ### Materials
-
 - Brine shrimp eggs. We have good luck using [Grade A Brine Shrimp Eggs from Brine Shrimp Direct](https://www.brineshrimpdirect.com/brine-shrimp-eggs/grade-brine-shrimp-eggs/).  
-
 - Culture vessel. The size of this vessel will vary depending on your culture size. Many [options](https://www.brineshrimpdirect.com/equipment-supplies/hatching-equipment/) are available.  
-
 - [Brine shrimp net](https://www.brineshrimpdirect.com/brine-shrimp-net).  
+- Serological pipettes (5mL). 
+- Air pump and associated tubing. 
+- UV bulb with an automated timer.
 
 ### Methods
+1. Fill the culture vessel(s) with reservoir water approximately 75% full. 
 
-Coming soon.
+1. Connect the long (5mL) serological pipettes (bubblers) with the black plastic air pump tubes and then put the pipettes into the carboys. Make sure each vessel gets at least three pipettes and all pipettes stay at the corner position, submerged. 
+
+1. Turn up the air pump to designated level. 
+
+1. Measure about 15mL of Brine Shrimp eggs with 50mL Falcon Tube and funnel. Then dump the eggs into one carboy. Repeat this step for the following vessels. 
+
+1. Put one UV light bulb into each carboy. Make sure the light bulb is fully submerged. 
+
+1. Cover the carboys with the black plastic bag to protect your eyes from UV light. 
+
+1. Turn on the automated timer switch for UV lights for “8 Hours”. 
+
+1. Wash the falcon tube, funnel, and spoon.
+
+1. Return the eggs to the refrigerator at 4ºC. 
 
 &nbsp;
 
