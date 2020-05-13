@@ -20,6 +20,8 @@ The below code was obtained from the above link. Uncommenting this code will pla
 [Future Resources](#future-resources)  
 [FAQs](#frequently-asked-questions)  
 
+
+
 <!--
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 https://github.com/hakimel/reveal.js/issues/1349
@@ -27,9 +29,9 @@ https://github.com/hakimel/reveal.js/issues/1349
 
 [![Genomics resources](/assets/img/Genomics.png "Genomic resources"){: height="200" width="200"}](#genomics-resources)
 [![Hydractinia strains](/assets/img/hydractiniastrainslogo.png "Hydractinia strains"){:<!-- style="float:right"--> height="200" width="200"}](#strains)
-[![Antibody icon](/assets/img/Antibody1.png "Antibody Diagram"){:<!-- style="float:right"--> height="200" width="200"}](#antibodies)  
-[![Plasmid icon](/assets/img/Plasmid3.png "Plasmid icon"){:<!-- style="float:right"--> height="200" width="200"}](#plasmids)
-[![Protocols icon](/assets/img/Methodsprotocols3.png "Protocols icon"){:<!-- style="float:right"--> height="200" width="200"}](#protocols)
+[![Antibodies](/assets/img/Antibody1.png "Antibodies"){:<!-- style="float:right"--> height="200" width="200"}](#antibodies)  
+[![Plasmids](/assets/img/Plasmid3.png "Plasmids"){:<!-- style="float:right"--> height="200" width="200"}](#plasmids)
+[![Protocols](/assets/img/Methodsprotocols3.png "Protocols"){:<!-- style="float:right"--> height="200" width="200"}](#protocols)
 [![Future Resources](/assets/img/futureresources.png "Future resources"){: height="200" width="200"}](#future-resources)
 
 
@@ -38,6 +40,7 @@ https://github.com/hakimel/reveal.js/issues/1349
 <!-- <img align="left" width="200" height="200" src="/assets/img/Genomics.png">
 <img align="right" width="200" height="200" src="/assets/img/Genomics.png">-->
 
+  
 
 ## Genomics resources
 
@@ -53,7 +56,7 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
 
 
 
-<a href="#top">Back to top</a>  
+<!-- <a href="#top">Back to top</a>  -->
 
 ## Strains  
 [//]: # https://github.com/petkivim/embed-google-docs
@@ -61,7 +64,7 @@ Polyp-specific | This project seeks to identify differentially expressed genes b
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTFB3TR5oqQnGkyt14XRi9xKmLyIoBDA19CihCeHFbIzWMOBSFug8Xc4j_Ke9rwaoomtiLZu7e8wMzt/pubhtml?widget=true&amp;headers=false" frameborder="0" scrolling="no" width="100%" height="300"></iframe>
 
-<a href="#top">Back to top</a>  
+<!-- <a href="#top">Back to top</a>  -->
 <br>
 
 ## Antibodies  
@@ -75,14 +78,14 @@ IP = Immunoprecipitation
 WB = Western Blot  
 O = Other  
 
-<a href="#top">Back to top</a>  
+<!-- <a href="#top">Back to top</a>  -->
 <br>
 
 ## Plasmids  
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTyoViDNkRWwu_tI_7yHp0d0NyPMqzFAcUiA4EI9dOvMCmYySeOmIAmvnkJX0ESn2ed0HlzeherErE0/pubhtml?widget=true&amp;headers=false" frameborder="0" scrolling="no" width="100%" height="400"></iframe>   
 
 
-<a href="#top">Back to top</a>  
+<!-- <a href="#top">Back to top</a>  -->
 <br>
 
 <!-- The code that is commented out below is a section for crypreserved samples and it links to the GoogleSheet that holds that information.
@@ -127,19 +130,19 @@ To find additional reserach-related objects or to share your objects with the *H
   - Coming soon, some protocols will be hosted on Protocols.io.
   - About *Hydractinia* (anatomy atlas, development timetable, life cycle)
 
-<a href="#top">Back to top</a>  
+<!-- <a href="#top">Back to top</a>  -->
 
 ## Future Resources
 Stay tuned for future resources such as cryopreserved samples, newletters, job postings, forums, and more! Let us know if you have suggestions.
 
-<a href="#top">Back to top</a>  
+<!-- <a href="#top">Back to top</a>  -->
 
 ## Frequently Asked Questions
 Coming soon, frequently asked questions.
 
-<div align="right">
+<!-- <div align="right">
     <a href="#top">Back to top</a>
-</div>
+</div> -->
 
 <!--<html>
   <head>
