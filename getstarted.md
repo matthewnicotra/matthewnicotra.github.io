@@ -96,27 +96,114 @@ Coming soon.
 
 ## **How to feed *Hydractinia***
 
-Coming soon.
+### Materials
+- Cultured Brine Shrimp
+- Plastic Carboy(s) to dispense cultured brine shrimp through the net
+- Brine Shrimp Net
+- Plastic tub(s) to place Hydractinia racks in while feeding
+- Handheld Refractometer to measure water salinity
+- Bleach 
+
+
+### Methods
+**Preparing to feed:**
+1.    Take out the black UV lights from the brine shrimp culture buckets, rinse them with hot water to remove debris and unwanted material. 
+
+1. Disconnect the long (5mL) serological pipettes (bubblers) from the air pump tubing and place them in the sink. 
+
+1. Rinse the sterilized bubblers (2-3x) with hot water, use the filtering net to strain them and place them on the counter to dry. 
+
+1. Rinse the net and hang on the drying rack to air dry.
+
+1. Rinse the dirty bubblers and cylinder with hot water and place bubblers into a large cylinder with the wider end at the bottom of the cylinder and the tip pointing up (we use a plastic 1000mL graduated cylinder).
+
+1. Add bleach to roughly 5-10mL mark then fill the rest of the way with hot water or until bubblers are fully submerged. 
+
+1. Transfer the brine shrimp culture from the buckets to the carboys and set them on the counter next to the sink for the shrimp to settle to the bottom of the carboys. This could be done while performing other tasks. Should wait until most of the shrimp settle to the bottom of the carboy, with a concentrated orange color at the bottom. *Don't leave shrimp in cardboys for extended periods of time as the lack of bubblers will cause them to die. 
+
+
+**Pre-Feeding:**
+1. Remove all plastic containers (tubs) from the drying rack and place them on two different counters to separate males from females. 
+   * Calculate how many tubs are needed for each side by calculating how many microscope slide racks of animals there are for each gender. (Our large tub can hold up to 3 large racks or 2 large racks + 3 small racks.)
+
+1. Fill each tub with water from certain tanks based on what day the water change is. 
+   * For example, if the feeding is happening on Monday, only use the water from tanks that need water changed on Mondays 
+   * Don’t forget to fill the tub with the tubes and the tub for rinsing. 
+
+1. Submerge female and male animal racks separately in the tubs filled with water. 
+   * For animal slides in tubes (we use 10mL centrifuge tubes with a hole cut out of the bottom for water movement), Put them in tubs that are filled with the addition of a tube rack to hold tubes in place.
+   * Prepare two extra rinse tubs for the male and female sides to rinse off the brine shrimp after feeding. 
+
+1. If running out tub space, you can consolidate Podocoryne or non-sexually matured animals into one rack. 
+
+
+**Feeding:**
+1. Rinse the air-dried filtering net with hot water then again with cold water.
+
+1. Catch shrimp with the net (place the net directly under the carboy spigots to filter out the shrimp). 
+
+1. Dab the net with shrimp inside out into each bin and disperse the shrimp by picking up the racks and moving them back and forth in tub.
+   * For the tubed animals, you can dab the shrimp in the water next to the tube rack, and then just move the rack. The water will bring shrimps automatically into tubes through their bottom openings.
+
+1. When shifting between feeding male and female racks, rinse the shrimp net with hot water then again with cold water.
+
+1. After all the animals are fed, rinse the net with hot water and place back into diluted bleach water.
+
+1. Record the time the feeding started. They usually need one hour to eat. 
+
+
+**Water Changing:** *(can be done while the animals are feeding)*
+1. Remove any excess water to make sure all the tanks that needed to be changed only have about 75% of water left. 
+
+1. Fill the specific “water-change only” carboy with reservoir water and add to the tanks until they are filled 100% (not all the way to the top that it will overflow). 
+
+1. Check salinity, ideally 29 ppt, if the salinity is higher, add Deionized (DI) -water. For our tanks, 500mL of DI water will result in lower the salinity by 1ppt.
+   * For example, if it the salinity reads 31ppt, add 1000mL of DI water to reach 29ppt.
+
+1. This is also a good time to check if there’s any excess food waste in the bottom of the tanks. If yes, you can remove them using a transfer pipette. 
+
+
+**Post-Feeding:**
+1. Put racks back after 1 hr of eating. Rinse each rack in the extra tub to remove unconsumed shrimps before placing back in their tanks. 
+
+1. Put the lids back to the tanks. For our tanks make sure that the lids are convex when put on so the curve can be counter corrected. 
+
+1. Culture a new set of brine shrimp for the next feeding. 
 
 &nbsp;
 
 ## **How to culture brine shrimp**
 
 ### Materials
-
 - Brine shrimp eggs. We have good luck using [Grade A Brine Shrimp Eggs from Brine Shrimp Direct](https://www.brineshrimpdirect.com/brine-shrimp-eggs/grade-brine-shrimp-eggs/).  
-
 - Culture vessel. The size of this vessel will vary depending on your culture size. Many [options](https://www.brineshrimpdirect.com/equipment-supplies/hatching-equipment/) are available.  
-
 - [Brine shrimp net](https://www.brineshrimpdirect.com/brine-shrimp-net).  
+- Serological pipettes (5mL). 
+- Air pump and associated tubing. 
+- UV bulb with an automated timer.
 
 ### Methods
+1. Fill the culture vessel(s) with reservoir water approximately 75% full. 
 
-Coming soon.
+1. Connect the long (5mL) serological pipettes (bubblers) with the black plastic air pump tubes and then put the pipettes into the carboys. Make sure each vessel gets at least three pipettes and all pipettes stay at the corner position, submerged. 
+
+1. Turn up the air pump to designated level. 
+
+1. Measure about 15mL of Brine Shrimp eggs with 50mL Falcon Tube and funnel. Then dump the eggs into one carboy. Repeat this step for the following vessels. 
+
+1. Put one UV light bulb into each carboy. Make sure the light bulb is fully submerged. 
+
+1. Cover the carboys with the black plastic bag to protect your eyes from UV light. 
+
+1. Turn on the automated timer switch for UV lights for “8 Hours”. 
+
+1. Wash the falcon tube, funnel, and spoon.
+
+1. Return the eggs to the refrigerator at 4ºC. 
 
 &nbsp;
 
-## **How to care for *Hydractinia***
+## **How to care for *Hydractinia*** 
 
 Coming soon.  
 
