@@ -20,32 +20,100 @@ The below code was obtained from the above link. Uncommenting this code will pla
 [Future Resources](#future-resources)  
 [FAQs](#frequently-asked-questions)  
 
-
-
 <!--
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 https://github.com/hakimel/reveal.js/issues/1349
--->
 
-[![Genomics resources](/assets/img/Genomics.png "Genomic resources"){: height="200" width="200"}](#genomics-resources)
-[![Hydractinia strains](/assets/img/hydractiniastrainslogo.png "Hydractinia strains"){:<!-- style="float:right"--> height="200" width="200"}](#strains)
-[![Antibodies](/assets/img/Antibody1.png "Antibodies"){:<!-- style="float:right"--> height="200" width="200"}](#antibodies)  
-[![Plasmids](/assets/img/Plasmid3.png "Plasmids"){:<!-- style="float:right"--> height="200" width="200"}](#plasmids)
-[![Protocols](/assets/img/Methodsprotocols3.png "Protocols"){:<!-- style="float:right"--> height="200" width="200"}](#protocols)
-[![Future Resources](/assets/img/futureresources.png "Future resources"){: height="200" width="200"}](#future-resources)
+[![Genomics resources](/assets/img/resources/Genomics.png "Genomic resources"){: height="30%" width="30%"}](#genomics-resources)
+[![Hydractinia strains](/assets/img/resources/Strains-1.png "Hydractinia strains"){: height="30%" width="30%"}](#strains)
+[![Antibodies](/assets/img/resources/Antibodies.png "Antibodies"){: height="30%" width="30%"}](#antibodies)
+[![Plasmids](/assets/img/resources/Plasmids.png "Plasmids"){: height="30%" width="30%"}](#plasmids)
+[![Cryopreserved samples](/assets/img/resources/Cryopreservation.png "Cryopreservation"){: height="30%" width="30%"}](#cryopreserved-samples)
+[![Protocols](/assets/img/resources/Protocols.png "Protocols"){: height="30%" width="30%"}](#protocols)
+[![Future Resources](/assets/img/resources/Futureresources.png "Future resources"){: height="30%" width="30%"}](#future-resources)-->
 
+<style>
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 1150px) {
+  .column {
+    width: 100%;
+  }
+}
+</style>
+
+<body>
+
+<div class="row">
+  <div class="column">
+    <center><a href="#genomics-resources"><img src="/assets/img/resources/Genomicresources.png" alt="Genomics resources" style="width:200px;height:200px;"></a></center>
+	<p></p>
+	<h4><center>Genomic Resources</center></h4>
+  </div>
+  <div class="column">
+    <center><a href="#strains"><img src="/assets/img/resources/Strains.png" alt="Hydractinia strains" style="width:200px;height:200px;"></a></center>
+	<p></p>
+	<h4><center><i>Hydractinia</i> strains</center></h4>
+  </div>
+  <div class="column">
+    <center><a href="#antibodies"><img src="/assets/img/resources/Antibody1.png" alt="Antibodies" style="width:200px;height:200px;"></a></center>
+	<p></p>
+	<h4><center>Antibodies</center></h4>
+  </div>
+</div>  
+
+<div class="row">
+  <div class="column">
+    <center><a href="#plasmids"><img src="/assets/img/resources/Plasmid3.png" alt="Plasmids" style="width:200px;height:200px;"></a></center>
+	<p></p>
+	<h4><center>Plasmids</center></h4>
+  </div>
+  <div class="column">
+    <center><a href="#protocols"><img src="/assets/img/resources/methodsprotocols3.png" alt="Protocols" style="width:200px;height:200px;"></a></center>
+	<p></p>
+	<h4><center>Protocols</center></h4>
+  </div>
+  <div class="column">
+    <center><a href="#future-resources"><img src="/assets/img/resources/Futureresources-i.png" alt="Future resources" style="width:200px;height:200px;"></a></center>
+	<p></p>
+	<h4><center>Future resources</center></h4>
+  </div>
+</div> 
+<!--
+<div class="row">
+  <div class="column">
+  </div>
+  <div class="column">
+    <center><a href="#cryopreserved-samples"><img src="/assets/img/resources/Cryopreservation.png" alt="Cryopreserved samples" style="width:200px;height:200px;"></a></center>
+	<p></p>
+	<h4><center>Cryopreserved samples</center></h4>
+  </div>
+  <div class="column">
+  </div>
+</div> -->
+
+</body>
 
 &nbsp;
-
-<!-- <img align="left" width="200" height="200" src="/assets/img/Genomics.png">
-<img align="right" width="200" height="200" src="/assets/img/Genomics.png">-->
-
   
-
+  
 ## Genomics resources
 
 #### _Hydractinia_ Genome Portal
-[![Genome Portal Home Page](/assets/img/genomePortal.PNG)](https://research.nhgri.nih.gov/hydractinia)  
+[![Genome Portal Home Page](/assets/img/resources/genomePortal.PNG)](https://research.nhgri.nih.gov/hydractinia)  
 
 #### Transcriptome Datasets
 
