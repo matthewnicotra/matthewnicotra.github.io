@@ -82,7 +82,7 @@ https://github.com/hakimel/reveal.js/issues/1349
 	<h4><center>Plasmids</center></h4>
   </div>
   <div class="column">
-    <center><a href="#protocols"><img src="/assets/img/resources/methodsprotocols3.png" alt="Protocols" style="width:200px;height:200px;"></a></center>
+    <center><a href="#protocols"><img src="/assets/img/resources/Methodsprotocols3.png" alt="Protocols" style="width:200px;height:200px;"></a></center>
 	<p></p>
 	<h4><center>Protocols</center></h4>
   </div>
