@@ -180,6 +180,7 @@ Please visit the [Get Started](/getstarted) page to view the protocols regarding
 
 As 3D printing has become more affordable, it has proven useful for customizing tools. We have included links to some commonly printed objects used in *Hydractinia* labs.
   - [*Hydractinia* breeder box](https://www.thingiverse.com/thing:3661286)  
+  - [*Hydractinia* viewing dish with integrated slide holder](https://www.thingiverse.com/thing:4432937)
   - *Hydractinia* rack  
   - Dissection scope phone mount
 

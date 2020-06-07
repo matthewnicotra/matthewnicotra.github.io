@@ -90,7 +90,7 @@ To obtain these strains, contact [Christine Schnitzler](https://www.whitney.ufl.
 
 ## **How to make *Hydractinia* racks**
 
-Coming soon.
+Coming soon. For a quick start to creating 3D printed slide racks, view the instructions on the [Resources](/resources/#protocols) page.
 
 &nbsp;
 
